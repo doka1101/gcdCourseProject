@@ -2,7 +2,7 @@
 
 This repository contains the following:
 + run_analysis.R
-+ "tidy" data set generated from the R script
++ "tidy" data set generated from the R script (tidy_data.txt)
 + codebook.md
 
 #### Data source
