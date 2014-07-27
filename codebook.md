@@ -13,7 +13,7 @@
 	+ type: integer
 	+ possible values: 1 ~ 30
 + each following columns have a mean and standard deviation column for X, Y, and Z axis <br />
-  and the type of the columns are integer.
+  and the type of the columns are integer (time unit: seconds, frequency unit: Hz)
 	+ body-acceleration-time 
 	+ body-acceleration-time      
 	+ body-acceleration-frequency
